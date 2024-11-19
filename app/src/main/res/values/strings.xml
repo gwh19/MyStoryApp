@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">MyStoryApp</string>
+
+    <string name="welcome_title_string">Welcome to MyStoryApp!</string>
+    <string name="welcome_description_string">Share your learning experience in this app.</string>
+    <string name="login_button_string">Login</string>
+    <string name="register_button_string">Register</string>
+
+    <string name="user_name_string">Name</string>
+    <string name="user_email_string">Email</string>
+    <string name="user_pass_string">Password</string>
+    <string name="date_string">Date</string>
+    <string name="title_string">Title</string>
+    <string name="desc_string">Description</string>
+    <string name="must_filled">Must Be Filled</string>
+    <string name="insert_valid_data">Insert Valid Data</string>
+    <string name="email_alert">Invalid Email Address!</string>
+    <string name="pass_alert">Password Can\'t Less Than 8 Characters!</string>
+
+    <string name="register_title_string">Don\'t Have An Account? Register Here.</string>
+    <string name="register_image_desc">Register Image</string>
+    <string name="register_actionbar">Register</string>
+    <string name="register_success">Account Has Been Created</string>
+    <string name="register_fail">Can\'t Create The Account</string>
+
+    <string name="login_title_string">Login To Share Your Story.</string>
+    <string name="login_image_desc">Login Image</string>
+    <string name="login_actionbar">Login</string>
+    <string name="login_fail">Can\'t Login. Check Your Data!</string>
+
+    <string name="detail_created_string">28–10–2023</string>
+
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="add_desc_hint">Write Your Story Here…</string>
+    <string name="upload_story">Upload</string>
+    <string name="add_actionbar">Add Story</string>
+    <string name="add_image_alert">Insert The Image First!</string>
+    <string name="add_desc_alert">Fill The Description First!</string>
+    <string name="add_location">Add My Location</string>
+
+    <string name="menu_language">Language</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_maps">Maps</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps_normal">Normal</string>
+    <string name="maps_satellite">Satellite</string>
+    <string name="maps_terrain">Terrain</string>
+    <string name="maps_hybrid">Hybrid</string>
+
+    <string name="retry">Retry</string>
+    <string name="main_fail">Can\'t Show Story</string>
+    <string name="detail_fail">Can\t Show Detail</string>
+    <string name="maps_fail">Can\t Show Maps</string>
+    <string name="add_fail">Can\'t Create Story</string>
+
+    <string name="add_success">Story Created Successfuly</string>
+</resources>
